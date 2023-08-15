@@ -1,3 +1,6 @@
+![image](https://github.com/Akshat2211/Cryptoverse/assets/104680433/55874b86-b191-4c3a-8d29-5517e60e666a)
+![image](https://github.com/Akshat2211/Cryptoverse/assets/104680433/baad10ab-6097-4ca3-a3c3-869254f8e1bd)
+![image](https://github.com/Akshat2211/Cryptoverse/assets/104680433/810ea6eb-c825-48a8-81b2-43325af6f971)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
